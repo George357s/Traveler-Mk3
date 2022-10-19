@@ -2,6 +2,7 @@
 A professional website, made from scratch
 A clean, modern, minimalistic, and professional website made with HTML5, CSS3, and Javascript. I had a lot of fun with this and had some issues that I was able to resolve. Some of the things I learned from this project is how to -
 
+
 - Build an advanced navbar with dropdown menu from scratch, only Javascript
 - Build an automatic slider from scratch with pagination controls (No Libraries)
 - Add some sleek scroll animations using Animate CSS & WOW JS
